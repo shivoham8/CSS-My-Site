@@ -17,9 +17,7 @@ This repository contains the source code for Ajay Gupta's portfolio website. The
 
 Dive into Ajay's world by visiting his portfolio website. Experience the seamless design, aesthetic appeal, and organized content that reflect his commitment to programming and web development.
 
-**[Visit Ajay Gupta's Portfolio](#)**
-
-*Note: Replace the "#" in the link with the actual URL once the website is hosted.*
+**[Visit Ajay Gupta's Portfolio](https://shivoham8.github.io/CSS-My-Site/)**
 
 ## Contact
 
